@@ -1,0 +1,2 @@
+# Credit Risk Prediction
+This repository houses a machine learning model designed to predict credit risk, a critical task in the financial industry. The model evaluates various factors associated with a borrower's profile to assess the likelihood of credit default. Accurate credit risk prediction is essential for financial institutions to make informed lending decisions and mitigate potential losses.
